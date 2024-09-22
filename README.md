@@ -6,7 +6,7 @@ This repository showcases my knowledge and projects in incident response and cyb
 ## Projects
 1. **Incident Response Plan**: 
    - Developed a comprehensive incident response plan for [Company Name].
-   - [Link to IR Plan](./Incident-Response-Plan/company-incident-response-plan.md)
+   - [Link to IR Plan](https://docs.google.com/document/d/1SEsHBqJyvhuS--IeiH_ts_kar0yMI-sPxxj0pjQIqQQ/edit?usp=sharing)
    
 2. **Forensics Analysis**:
    - Memory, disk, and network forensics using tools like Volatility, Autopsy, and Wireshark.
