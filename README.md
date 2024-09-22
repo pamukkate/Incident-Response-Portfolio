@@ -17,8 +17,8 @@ This repository showcases my knowledge and projects in incident response and cyb
    - [Link to Log Analysis](./Log-Analysis-and-Monitoring/log-analysis-report.md)
 
 ## Certifications
-- CISSP
-- CEH
+- ISC2
+- Google
 - [View Full Certification List](https://drive.google.com/drive/folders/1krUwE-LDMvqiPVuhmkNgyVuceRD8p7vi?usp=sharing)
 
 ## Skills
