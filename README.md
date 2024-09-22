@@ -19,7 +19,7 @@ This repository showcases my knowledge and projects in incident response and cyb
 ## Certifications
 - CISSP
 - CEH
-- [View Full Certification List]([./Certifications/certification-list.md](https://drive.google.com/drive/folders/1krUwE-LDMvqiPVuhmkNgyVuceRD8p7vi?usp=sharing)
+- [View Full Certification List](https://drive.google.com/drive/folders/1krUwE-LDMvqiPVuhmkNgyVuceRD8p7vi?usp=sharing)
 
 ## Skills
 - Incident Response Planning
